@@ -3,4 +3,6 @@ For minor variations, please comment.
 
 Fork, if you have better approach.
 
-For learning purpose only.
+Please keep master intact.
+
+Feel free to clone, for learning purpose only.
